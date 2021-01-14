@@ -109,6 +109,7 @@ namespace SocketClient
             }
             Console.WriteLine("Premi Enter per chiudere...");
             Console.ReadLine();
+
         }
     }
 }
